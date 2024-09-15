@@ -1,7 +1,7 @@
 # Gradle中文实用教程技术文档总结
 
-##介绍
- [Gradle中文实用教程【持续更新收藏版】](https://zhuanlan.zhihu.com/p/679330466)
+## 介绍
+[Gradle中文实用教程【持续更新收藏版】](https://zhuanlan.zhihu.com/p/679330466)
 
 ### 一、基础篇
 
